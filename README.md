@@ -1,4 +1,4 @@
-### Hi there 👋
+### Growth Friendly
 
 <!--
 **SeongA-Park/SeongA-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
